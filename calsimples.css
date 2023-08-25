@@ -1,0 +1,32 @@
+.body {
+    background-color: aqua;
+}
+
+.h1{
+    position: absolute;
+    left: 790px;
+}
+
+.container-calc {
+    position: absolute;
+    left: 550px;
+    top: 240px;
+}
+
+#operator {
+    position: absolute;
+    left: 910px;
+    top: 240px;
+}
+
+.container-calc3 {
+    position: absolute;
+    left: 1100px;
+    top: 240px;
+}
+
+.container-calc4 {
+    position: absolute;
+    left: 890px;
+    top: 280px;
+}
